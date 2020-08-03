@@ -1,27 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ba70b9a.chunk.css",
-    "main.js": "/static/js/main.25e0ac7c.chunk.js",
-    "main.js.map": "/static/js/main.25e0ac7c.chunk.js.map",
+    "main.css": "/static/css/main.4e2f7eaf.chunk.css",
+    "main.js": "/static/js/main.0cd751f3.chunk.js",
+    "main.js.map": "/static/js/main.0cd751f3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2267dc27.js",
     "runtime-main.js.map": "/static/js/runtime-main.2267dc27.js.map",
     "static/css/2.2533c60a.chunk.css": "/static/css/2.2533c60a.chunk.css",
-    "static/js/2.5ab417bf.chunk.js": "/static/js/2.5ab417bf.chunk.js",
-    "static/js/2.5ab417bf.chunk.js.map": "/static/js/2.5ab417bf.chunk.js.map",
+    "static/js/2.c3b43d2a.chunk.js": "/static/js/2.c3b43d2a.chunk.js",
+    "static/js/2.c3b43d2a.chunk.js.map": "/static/js/2.c3b43d2a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.423ae948469a0f3a7ceabab48ac35e93.js": "/precache-manifest.423ae948469a0f3a7ceabab48ac35e93.js",
+    "precache-manifest.492d8b99c1336d8ffaca31d2ac076dfb.js": "/precache-manifest.492d8b99c1336d8ffaca31d2ac076dfb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2533c60a.chunk.css.map": "/static/css/2.2533c60a.chunk.css.map",
-    "static/css/main.9ba70b9a.chunk.css.map": "/static/css/main.9ba70b9a.chunk.css.map",
-    "static/js/2.5ab417bf.chunk.js.LICENSE.txt": "/static/js/2.5ab417bf.chunk.js.LICENSE.txt",
+    "static/css/main.4e2f7eaf.chunk.css.map": "/static/css/main.4e2f7eaf.chunk.css.map",
+    "static/js/2.c3b43d2a.chunk.js.LICENSE.txt": "/static/js/2.c3b43d2a.chunk.js.LICENSE.txt",
     "static/media/birds.png": "/static/media/birds.437d7573.png",
-    "static/media/cond-1.png": "/static/media/cond-1.d1805228.png",
-    "static/media/cond-2.png": "/static/media/cond-2.99a008ab.png",
-    "static/media/cond-3.png": "/static/media/cond-3.e8e2f3e5.png",
-    "static/media/cond-4.png": "/static/media/cond-4.270ca313.png",
-    "static/media/cond-5.png": "/static/media/cond-5.3f92791f.png",
-    "static/media/cond-6.png": "/static/media/cond-6.3abada6b.png",
-    "static/media/cond-7.png": "/static/media/cond-7.751acd7e.png",
     "static/media/einstein.jpg": "/static/media/einstein.7b822cec.jpg",
     "static/media/filler.png": "/static/media/filler.803a5d0a.png",
     "static/media/impact-1.png": "/static/media/impact-1.6ab751d4.png",
@@ -36,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.2267dc27.js",
     "static/css/2.2533c60a.chunk.css",
-    "static/js/2.5ab417bf.chunk.js",
-    "static/css/main.9ba70b9a.chunk.css",
-    "static/js/main.25e0ac7c.chunk.js"
+    "static/js/2.c3b43d2a.chunk.js",
+    "static/css/main.4e2f7eaf.chunk.css",
+    "static/js/main.0cd751f3.chunk.js"
   ]
 }
