@@ -1,0 +1,39 @@
+HTTrack3.49-2 launched on Tue, 11 Aug 2020 18:48:11 at https://utkarsh858iitr.wixsite.com/demo +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://utkarsh858iitr.wixsite.com/demo -O "/home/utkarsh/websites/copyit" -n -t -%P -s2 -o -x -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:54:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 5147828 got 4683857): static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/29c28905-cc56-4077-86f5-917ad8e34c1c.svg
+18:57:16	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/ (from https://utkarsh858iitr.wixsite.com/demo)
+18:57:16	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/POST (from https://utkarsh858iitr.wixsite.com/demo)
+18:57:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://siteassets.parastorage.com/pages/singlePage/viewerViewModeJson (from https://utkarsh858iitr.wixsite.com/demo)
+18:57:46	Warning: 	Retry after error 500 () at link https://siteassets.parastorage.com/pages/singlePage/viewerViewModeJson (from https://utkarsh858iitr.wixsite.com/demo)
+18:57:47	Error: 	"Bad Request" (400) at link https://ae9742ae-465f-4325-8061-306dff5643e0.static.pub.wix-code.com/ (from https://utkarsh858iitr.wixsite.com/demo/who-we-are)
+18:57:48	Warning: 	Note: due to https://static.wixstatic.com remote robots.txt rules, links beginning with these path will be forbidden: /index.html, /client/, /doc/, /fonts/, /skinz/, /comp/, /server/, /connect/, /wix-public-html-renderer/, /wix-html-editor-pages-webapp/ (see in the options to disable this)
+18:57:48	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/ (from https://utkarsh858iitr.wixsite.com/demo/who-we-are)
+18:57:49	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://utkarsh858iitr.wixsite.com/demo/who-we-are)
+18:57:49	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/demo/POST (from https://utkarsh858iitr.wixsite.com/demo/support-us)
+18:58:05	Error: 	"" (500) after 2 retries at link https://siteassets.parastorage.com/pages/singlePage/viewerViewModeJson (from https://utkarsh858iitr.wixsite.com/demo)
+18:59:03	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/sitemap.xml (from https://utkarsh858iitr.wixsite.com/demo)
+18:59:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://utkarsh858iitr.wixsite.com/_partials/wix-bolt/1.6478.0/node_modules/viewer-platform-worker/dist/wixcode-worker.js
+18:59:09	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/feed.xml (from https://utkarsh858iitr.wixsite.com/demo)
+19:01:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://utkarsh858iitr.wixsite.com/demo/sitemap.xml
+19:01:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://utkarsh858iitr.wixsite.com/demo/post/sitemap.xml
+19:02:16	Warning: 	Retry after error -4 (Incorrect length (4683857 Bytes, 5147828 expected)) at link static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/29c28905-cc56-4077-86f5-917ad8e34c1c.svg (from https://utkarsh858iitr.wixsite.com/demo)
+19:02:25	Error: 	"Forbidden" (403) at link static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/meodedpashut_oeregular.svg (from https://utkarsh858iitr.wixsite.com/demo)
+19:02:27	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/bbd2f5_7116ccacc0ad4421bc6de68d285f4b0ff001.jpg (from https://utkarsh858iitr.wixsite.com/demo)
+19:02:27	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/bbd2f5_7116ccacc0ad4421bc6de68d285f4b0ff002.jpg (from https://utkarsh858iitr.wixsite.com/demo)
+19:02:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://utkarsh858iitr.wixsite.com/demo/blog/sitemap.xml
+19:02:29	Error: 	"Forbidden" (403) at link https://utkarsh858iitr.wixsite.com/_partials/santa/1.11240.0/node_modules/santa-wix-code/dist/wixcode-worker.js (from https://utkarsh858iitr.wixsite.com/demo/who-we-are)
+19:02:29	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/demo/robots.txt (from https://utkarsh858iitr.wixsite.com/demo/who-we-are)
+19:02:29	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/demo/feed.xml (from https://utkarsh858iitr.wixsite.com/demo/who-we-are)
+19:02:29	Warning: 	HTML file (2937 bytes) retransferred due to lack of cache: https://utkarsh858iitr.wixsite.com/demo/POST
+19:02:30	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/demo/POST (from https://utkarsh858iitr.wixsite.com/demo/support-us)
+19:02:30	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/demo/blog/feed.xml (from https://utkarsh858iitr.wixsite.com/demo/blog/)
+19:02:30	Error: 	"Not Found" (404) at link https://utkarsh858iitr.wixsite.com/demo/post/feed.xml (from https://utkarsh858iitr.wixsite.com/demo/post/end-hunger-raises-5000-dollars-for-families-affected-by-hurricane-mila)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 22 seconds : 204 links scanned, 183 files written (72015505 bytes overall) [65671516 bytes received at 76185 bytes/sec], 14232726 bytes transferred using HTTP compression in 59 files, ratio 20%, 1.1 requests per connection
+(18 errors, 10 warnings, 0 messages)
