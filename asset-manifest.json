@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5788b7a.chunk.css",
-    "main.js": "/static/js/main.add7a708.chunk.js",
-    "main.js.map": "/static/js/main.add7a708.chunk.js.map",
+    "main.css": "/static/css/main.c35a6449.chunk.css",
+    "main.js": "/static/js/main.7eafaf91.chunk.js",
+    "main.js.map": "/static/js/main.7eafaf91.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.136ad5e7.js",
     "runtime-main.js.map": "/static/js/runtime-main.136ad5e7.js.map",
     "static/css/2.37c00e0b.chunk.css": "/static/css/2.37c00e0b.chunk.css",
-    "static/js/2.6de6cedb.chunk.js": "/static/js/2.6de6cedb.chunk.js",
-    "static/js/2.6de6cedb.chunk.js.map": "/static/js/2.6de6cedb.chunk.js.map",
+    "static/js/2.e03a7e91.chunk.js": "/static/js/2.e03a7e91.chunk.js",
+    "static/js/2.e03a7e91.chunk.js.map": "/static/js/2.e03a7e91.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.62d18fb8c98dabc10800215f25090efa.js": "/precache-manifest.62d18fb8c98dabc10800215f25090efa.js",
+    "precache-manifest.851a71d11b2d9319630a0c7b8e92a988.js": "/precache-manifest.851a71d11b2d9319630a0c7b8e92a988.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.37c00e0b.chunk.css.map": "/static/css/2.37c00e0b.chunk.css.map",
-    "static/css/main.f5788b7a.chunk.css.map": "/static/css/main.f5788b7a.chunk.css.map",
-    "static/js/2.6de6cedb.chunk.js.LICENSE.txt": "/static/js/2.6de6cedb.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/static/media/banner.9047df02.jpg",
+    "static/css/main.c35a6449.chunk.css.map": "/static/css/main.c35a6449.chunk.css.map",
+    "static/js/2.e03a7e91.chunk.js.LICENSE.txt": "/static/js/2.e03a7e91.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/banner.c10b2ab1.jpg",
     "static/media/bookdis1.jpeg": "/static/media/bookdis1.478ffb11.jpeg",
     "static/media/bookdis2.jpeg": "/static/media/bookdis2.8b78ef91.jpeg",
     "static/media/cow1.jpeg": "/static/media/cow1.fa973538.jpeg",
@@ -23,6 +23,7 @@
     "static/media/foodforlife1.jpeg": "/static/media/foodforlife1.dcbbb2a0.jpeg",
     "static/media/foodforlife2.jpeg": "/static/media/foodforlife2.cff6db36.jpeg",
     "static/media/footer-image-fadded.jpg": "/static/media/footer-image-fadded.61f95221.jpg",
+    "static/media/heart_anim.gif": "/static/media/heart_anim.37bea032.gif",
     "static/media/logo_nav.jpeg": "/static/media/logo_nav.290cd774.jpeg",
     "static/media/mataji.jpg": "/static/media/mataji.f2cef299.jpg",
     "static/media/narendra.jpg": "/static/media/narendra.29dc0e93.jpg",
@@ -41,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.136ad5e7.js",
     "static/css/2.37c00e0b.chunk.css",
-    "static/js/2.6de6cedb.chunk.js",
-    "static/css/main.f5788b7a.chunk.css",
-    "static/js/main.add7a708.chunk.js"
+    "static/js/2.e03a7e91.chunk.js",
+    "static/css/main.c35a6449.chunk.css",
+    "static/js/main.7eafaf91.chunk.js"
   ]
 }
