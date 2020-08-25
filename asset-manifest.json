@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.75d54c64.chunk.css",
-    "main.js": "/static/js/main.50fc2107.chunk.js",
-    "main.js.map": "/static/js/main.50fc2107.chunk.js.map",
+    "main.css": "/static/css/main.ca1ec3c9.chunk.css",
+    "main.js": "/static/js/main.3336019d.chunk.js",
+    "main.js.map": "/static/js/main.3336019d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.136ad5e7.js",
     "runtime-main.js.map": "/static/js/runtime-main.136ad5e7.js.map",
     "static/css/2.37c00e0b.chunk.css": "/static/css/2.37c00e0b.chunk.css",
     "static/js/2.e03a7e91.chunk.js": "/static/js/2.e03a7e91.chunk.js",
     "static/js/2.e03a7e91.chunk.js.map": "/static/js/2.e03a7e91.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.13d6e17c46de08bbd873ee78bd247516.js": "/precache-manifest.13d6e17c46de08bbd873ee78bd247516.js",
+    "precache-manifest.c37b2a2376b583f43648ce4fcf09aaf3.js": "/precache-manifest.c37b2a2376b583f43648ce4fcf09aaf3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.37c00e0b.chunk.css.map": "/static/css/2.37c00e0b.chunk.css.map",
-    "static/css/main.75d54c64.chunk.css.map": "/static/css/main.75d54c64.chunk.css.map",
+    "static/css/main.ca1ec3c9.chunk.css.map": "/static/css/main.ca1ec3c9.chunk.css.map",
     "static/js/2.e03a7e91.chunk.js.LICENSE.txt": "/static/js/2.e03a7e91.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/banner.c10b2ab1.jpg",
     "static/media/bookdis1.jpeg": "/static/media/bookdis1.478ffb11.jpeg",
@@ -23,7 +23,7 @@
     "static/media/foodforlife1.jpeg": "/static/media/foodforlife1.dcbbb2a0.jpeg",
     "static/media/foodforlife2.jpeg": "/static/media/foodforlife2.cff6db36.jpeg",
     "static/media/footer-image-fadded.jpg": "/static/media/footer-image-fadded.61f95221.jpg",
-    "static/media/heart_anim.gif": "/static/media/heart_anim.37bea032.gif",
+    "static/media/heart_anim.gif": "/static/media/heart_anim.64a931c1.gif",
     "static/media/logo_nav.jpeg": "/static/media/logo_nav.290cd774.jpeg",
     "static/media/mataji.jpg": "/static/media/mataji.f2cef299.jpg",
     "static/media/narendra.jpg": "/static/media/narendra.29dc0e93.jpg",
@@ -43,7 +43,7 @@
     "static/js/runtime-main.136ad5e7.js",
     "static/css/2.37c00e0b.chunk.css",
     "static/js/2.e03a7e91.chunk.js",
-    "static/css/main.75d54c64.chunk.css",
-    "static/js/main.50fc2107.chunk.js"
+    "static/css/main.ca1ec3c9.chunk.css",
+    "static/js/main.3336019d.chunk.js"
   ]
 }
