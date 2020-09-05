@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca1ec3c9.chunk.css",
-    "main.js": "/static/js/main.44cafb6e.chunk.js",
-    "main.js.map": "/static/js/main.44cafb6e.chunk.js.map",
+    "main.css": "/static/css/main.82d4006c.chunk.css",
+    "main.js": "/static/js/main.3ebedbef.chunk.js",
+    "main.js.map": "/static/js/main.3ebedbef.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.136ad5e7.js",
     "runtime-main.js.map": "/static/js/runtime-main.136ad5e7.js.map",
     "static/css/2.37c00e0b.chunk.css": "/static/css/2.37c00e0b.chunk.css",
-    "static/js/2.e03a7e91.chunk.js": "/static/js/2.e03a7e91.chunk.js",
-    "static/js/2.e03a7e91.chunk.js.map": "/static/js/2.e03a7e91.chunk.js.map",
+    "static/js/2.16c74463.chunk.js": "/static/js/2.16c74463.chunk.js",
+    "static/js/2.16c74463.chunk.js.map": "/static/js/2.16c74463.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c9c9e32c20f5dbcb93ff0e455a2b77ab.js": "/precache-manifest.c9c9e32c20f5dbcb93ff0e455a2b77ab.js",
+    "precache-manifest.6bd5ae6a95b7dcc40c91801f8b7463b0.js": "/precache-manifest.6bd5ae6a95b7dcc40c91801f8b7463b0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.37c00e0b.chunk.css.map": "/static/css/2.37c00e0b.chunk.css.map",
-    "static/css/main.ca1ec3c9.chunk.css.map": "/static/css/main.ca1ec3c9.chunk.css.map",
-    "static/js/2.e03a7e91.chunk.js.LICENSE.txt": "/static/js/2.e03a7e91.chunk.js.LICENSE.txt",
+    "static/css/main.82d4006c.chunk.css.map": "/static/css/main.82d4006c.chunk.css.map",
+    "static/js/2.16c74463.chunk.js.LICENSE.txt": "/static/js/2.16c74463.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/banner.c10b2ab1.jpg",
     "static/media/bookdis1.jpeg": "/static/media/bookdis1.478ffb11.jpeg",
     "static/media/bookdis2.jpeg": "/static/media/bookdis2.8b78ef91.jpeg",
@@ -25,6 +25,8 @@
     "static/media/footer-image-fadded.jpg": "/static/media/footer-image-fadded.61f95221.jpg",
     "static/media/heart_anim.gif": "/static/media/heart_anim.64a931c1.gif",
     "static/media/logo_nav.jpeg": "/static/media/logo_nav.290cd774.jpeg",
+    "static/media/manohar.jpg": "/static/media/manohar.c038295b.jpg",
+    "static/media/manohar_letter.jpg": "/static/media/manohar_letter.58cce4e4.jpg",
     "static/media/mataji.jpg": "/static/media/mataji.f2cef299.jpg",
     "static/media/narendra.jpg": "/static/media/narendra.29dc0e93.jpg",
     "static/media/prabhupada.png": "/static/media/prabhupada.c2d6ab40.png",
@@ -42,8 +44,8 @@
   "entrypoints": [
     "static/js/runtime-main.136ad5e7.js",
     "static/css/2.37c00e0b.chunk.css",
-    "static/js/2.e03a7e91.chunk.js",
-    "static/css/main.ca1ec3c9.chunk.css",
-    "static/js/main.44cafb6e.chunk.js"
+    "static/js/2.16c74463.chunk.js",
+    "static/css/main.82d4006c.chunk.css",
+    "static/js/main.3ebedbef.chunk.js"
   ]
 }
