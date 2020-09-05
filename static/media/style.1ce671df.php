@@ -1,1 +1,0 @@
-twit-banner {background:#1e73be;}
